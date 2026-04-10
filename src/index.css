@@ -4,93 +4,93 @@
 
 @layer base {
   :root {
-    --background: 35 25% 96%;
-    --foreground: 25 30% 12%;
+    --background: 0 15% 97%;
+    --foreground: 345 40% 10%;
 
-    --card: 35 20% 98%;
-    --card-foreground: 25 30% 12%;
+    --card: 0 10% 99%;
+    --card-foreground: 345 40% 10%;
 
-    --popover: 35 20% 98%;
-    --popover-foreground: 25 30% 12%;
+    --popover: 0 10% 99%;
+    --popover-foreground: 345 40% 10%;
 
-    --primary: 25 60% 22%;
-    --primary-foreground: 35 25% 96%;
+    --primary: 345 65% 28%;
+    --primary-foreground: 0 15% 97%;
 
-    --secondary: 35 30% 88%;
-    --secondary-foreground: 25 30% 12%;
+    --secondary: 0 20% 90%;
+    --secondary-foreground: 345 40% 10%;
 
-    --muted: 35 20% 90%;
-    --muted-foreground: 25 20% 45%;
+    --muted: 0 15% 92%;
+    --muted-foreground: 345 15% 45%;
 
-    --accent: 32 80% 52%;
+    --accent: 348 72% 42%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 35 25% 96%;
+    --destructive-foreground: 0 15% 97%;
 
-    --border: 30 20% 82%;
-    --input: 30 20% 82%;
-    --ring: 25 60% 22%;
+    --border: 0 18% 84%;
+    --input: 0 18% 84%;
+    --ring: 345 65% 28%;
 
     --radius: 0.75rem;
 
-    --ink: 25 30% 12%;
-    --parchment: 35 25% 96%;
-    --amber: 32 80% 52%;
-    --amber-light: 40 90% 70%;
+    --ink: 345 40% 10%;
+    --parchment: 0 15% 97%;
+    --amber: 348 72% 42%;
+    --amber-light: 5 85% 62%;
 
-    --sidebar-background: 35 20% 94%;
-    --sidebar-foreground: 25 30% 20%;
-    --sidebar-primary: 25 60% 22%;
-    --sidebar-primary-foreground: 35 25% 96%;
-    --sidebar-accent: 35 25% 88%;
-    --sidebar-accent-foreground: 25 30% 20%;
-    --sidebar-border: 30 20% 82%;
-    --sidebar-ring: 32 80% 52%;
+    --sidebar-background: 0 12% 94%;
+    --sidebar-foreground: 345 30% 20%;
+    --sidebar-primary: 345 65% 28%;
+    --sidebar-primary-foreground: 0 15% 97%;
+    --sidebar-accent: 0 18% 88%;
+    --sidebar-accent-foreground: 345 30% 20%;
+    --sidebar-border: 0 18% 84%;
+    --sidebar-ring: 348 72% 42%;
   }
 
   .dark {
-    --background: 20 20% 8%;
-    --foreground: 35 25% 92%;
+    --background: 345 25% 7%;
+    --foreground: 0 20% 93%;
 
-    --card: 20 18% 11%;
-    --card-foreground: 35 25% 92%;
+    --card: 345 22% 10%;
+    --card-foreground: 0 20% 93%;
 
-    --popover: 20 18% 11%;
-    --popover-foreground: 35 25% 92%;
+    --popover: 345 22% 10%;
+    --popover-foreground: 0 20% 93%;
 
-    --primary: 35 70% 70%;
-    --primary-foreground: 20 20% 8%;
+    --primary: 5 75% 68%;
+    --primary-foreground: 345 25% 7%;
 
-    --secondary: 20 15% 18%;
-    --secondary-foreground: 35 25% 92%;
+    --secondary: 345 18% 17%;
+    --secondary-foreground: 0 20% 93%;
 
-    --muted: 20 15% 16%;
-    --muted-foreground: 35 15% 60%;
+    --muted: 345 18% 15%;
+    --muted-foreground: 0 12% 60%;
 
-    --accent: 32 80% 55%;
+    --accent: 5 80% 58%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 62.8% 50%;
-    --destructive-foreground: 35 25% 92%;
+    --destructive-foreground: 0 20% 93%;
 
-    --border: 20 15% 22%;
-    --input: 20 15% 22%;
-    --ring: 35 70% 70%;
+    --border: 345 18% 20%;
+    --input: 345 18% 20%;
+    --ring: 5 75% 68%;
 
-    --ink: 35 25% 92%;
-    --parchment: 20 20% 8%;
-    --amber: 32 80% 55%;
-    --amber-light: 40 90% 65%;
+    --ink: 0 20% 93%;
+    --parchment: 345 25% 7%;
+    --amber: 5 80% 58%;
+    --amber-light: 10 90% 68%;
 
-    --sidebar-background: 20 18% 10%;
-    --sidebar-foreground: 35 25% 88%;
-    --sidebar-primary: 35 70% 70%;
-    --sidebar-primary-foreground: 20 20% 8%;
-    --sidebar-accent: 20 15% 16%;
-    --sidebar-accent-foreground: 35 25% 88%;
-    --sidebar-border: 20 15% 20%;
-    --sidebar-ring: 32 80% 55%;
+    --sidebar-background: 345 22% 9%;
+    --sidebar-foreground: 0 20% 88%;
+    --sidebar-primary: 5 75% 68%;
+    --sidebar-primary-foreground: 345 25% 7%;
+    --sidebar-accent: 345 18% 15%;
+    --sidebar-accent-foreground: 0 20% 88%;
+    --sidebar-border: 345 18% 18%;
+    --sidebar-ring: 5 80% 58%;
   }
 }
 
